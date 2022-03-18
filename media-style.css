@@ -1,0 +1,166 @@
+@media screen and (max-width: 740px) {
+  header {
+    display: none;
+  }
+
+  .head-line {
+    display: none;
+  }
+
+  .menu-line {
+    display: block;
+  }
+
+  .first-part {
+    padding: 0;
+  }
+
+  .nav-btn {
+    padding: 30px 0 90px 30px;
+    cursor: pointer;
+  }
+
+  .punchline {
+    font-size: 20px;
+    padding-left: 30px;
+  }
+
+  .first-part h1 {
+    font-size: 40px;
+    padding-left: 30px;
+  }
+
+  .punchline2 {
+    width: 300px;
+    margin-left: 30px;
+  }
+
+  .for-date,
+  .endline {
+    margin-left: 30px;
+  }
+
+  .card-container {
+    flex-direction: column;
+  }
+
+  .for-cards {
+    height: auto;
+    padding-bottom: 90px;
+  }
+
+  .card00 {
+    flex-direction: row;
+    width: 90%;
+    height: 200px;
+    align-items: center;
+    padding-left: 10px;
+    align-self: center;
+  }
+
+  .card-content {
+    display: flex;
+    width: 80%;
+    text-align: left;
+  }
+
+  .card-content h3 {
+    margin: 10px;
+  }
+
+  .card-content p {
+    margin-left: 10px;
+  }
+
+  .collabo-container {
+    grid-template-columns: 90%;
+    grid-gap: 20px;
+  }
+
+  .footer-list-container {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  footer ul {
+    font-size: 10px;
+  }
+
+  .menu-bar {
+    background-color: rgba(94, 25, 158, 0.63);
+    backdrop-filter: blur(15px);
+    width: 100%;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Fredoka', sans-serif;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    padding: 50px;
+    list-style: none;
+  }
+
+  main ul li {
+    padding: 10px;
+  }
+
+  main ul li:hover {
+    color: rgb(158, 25, 25);
+    cursor: pointer;
+  }
+
+  .close-button {
+    position: relative;
+    bottom: 70px;
+    left: 170px;
+    margin-top: 20px;
+    font-size: 60px;
+    cursor: pointer;
+  }
+
+  .see-more {
+    width: 70%;
+    margin: 0 auto;
+    border: 3px solid #000;
+    padding: 15px;
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    display: block;
+  }
+
+  .see-more:hover {
+    background-color: rgb(226, 221, 221);
+    cursor: pointer;
+  }
+
+  .see-less {
+    width: 70%;
+    margin: 0 auto;
+    border: 3px solid #000;
+    padding: 15px;
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    display: none;
+  }
+
+  .see-less:hover {
+    background-color: rgb(226, 221, 221);
+    cursor: pointer;
+  }
+
+  .collabos {
+    display: none;
+  }
+
+  .collabos:nth-child(-n+2) {
+    display: flex;
+  }
+
+  .showAll {
+    display: flex;
+  }
+}
