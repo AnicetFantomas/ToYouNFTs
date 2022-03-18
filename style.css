@@ -27,6 +27,20 @@ header ul {
   list-style: none;
 }
 
+.head-line {
+  width: 100%;
+  height: 40px;
+  background-color: rgb(23, 43, 23);
+  color: white;
+  display: flex;
+  padding-left: 70%;
+}
+
+.head-line div,
+img {
+  padding: 10px;
+}
+
 header ul li,
 a {
   margin: 10px;
@@ -42,6 +56,14 @@ a {
 .footer-list li {
   padding: 0 20px;
   border-right: 2px solid white;
+}
+
+header ul li:last-child {
+  border: 3px solid red;
+  width: 140px;
+  padding: 15px;
+  display: flex;
+  align-items: center;
 }
 
 header ul li:hover {
@@ -60,7 +82,7 @@ header ul li:hover {
   background-image: linear-gradient(90deg, rgb(247, 244, 239), rgba(255, 255, 255, 0.911) 85%, rgba(194, 194, 194, 0.829)), url("./images/Part1Back.jpg");
   background-size: cover;
   width: 100%;
-  height: 500px;
+  height: auto;
   padding: 90px;
 }
 
@@ -115,7 +137,7 @@ header ul li:hover {
 
 .card00 {
   background-color: rgba(5, 27, 5, 0.589);
-  width: 250px;
+  width: 220px;
   height: 370px;
   display: flex;
   margin: 5px;
@@ -178,7 +200,7 @@ header ul li:hover {
 
 .article-img {
   width: 140px;
-  margin: 15px 0 0 15px;
+  margin: 5px 0 0 5px;
 }
 
 .description {
@@ -211,7 +233,7 @@ header ul li:hover {
 
 .collabo-container {
   display: grid;
-  grid-template-columns: 450px 450px;
+  grid-template-columns: 45% 45%;
   grid-gap: 10px;
   justify-content: center;
 }

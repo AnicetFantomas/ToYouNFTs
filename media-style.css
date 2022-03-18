@@ -3,6 +3,10 @@
     display: none;
   }
 
+  .head-line {
+    display: none;
+  }
+
   .menu-line {
     display: block;
   }
@@ -47,10 +51,11 @@
 
   .card00 {
     flex-direction: row;
-    width: 500px;
+    width: 90%;
     height: 200px;
     align-items: center;
     padding-left: 10px;
+    align-self: center;
   }
 
   .card-content {
@@ -68,7 +73,8 @@
   }
 
   .collabo-container {
-    grid-template-columns: 500px;
+    grid-template-columns: 90%;
+    grid-gap: 20px;
   }
 
   .footer-list-container {
