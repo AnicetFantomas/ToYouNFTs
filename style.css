@@ -63,11 +63,13 @@ header nav {
 }
 
 header ul li:last-child {
-  border: 3px solid red;
+  border: 3px solid rgb(238, 5, 5);
+  color: rgb(238, 5, 5);
   width: 140px;
   padding: 15px;
   display: flex;
   align-items: center;
+  cursor: pointer;
 }
 
 header ul li:hover {
