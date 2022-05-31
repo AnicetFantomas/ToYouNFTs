@@ -49,7 +49,7 @@
 
 ## Live Demo is avaible here
 
-[Live Demo Link](https://anicetfantomas.github.io/Anicet-s-capston/)
+[Live Demo Link](https://precious-toffee-600fae.netlify.app)
 
 ## Getting Started
 
