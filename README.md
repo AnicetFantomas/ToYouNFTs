@@ -1,25 +1,7 @@
 
 # Anicet's Capstone Project
 
->  In this first capstone project, the performances was :
-
-- Use semantic HTML tags.
-- Apply best practices in HTML code.
-- Use CSS selectors correctly.
-- Use CSS box model.
-- Use Flexbox to place elements in the page.
-- Demonstrate ability to create UIs adaptable - to different screen sizes using media queries.
-- Use GitHub Pages to deploy web pages.
-- Apply JavaScript best practices and language - style guides in code.
-- Use JavaScript to manipulate DOM elements.
-- Use JavaScript events.
-- Use objects to store and access data.
-- Communicate technical concepts to other technical people.
-
-  I enjoyed each step and got the chance of practicing again each lesson. I hope that you will apreciate what you will see and I stay open to every suggestion, advice or help in order to improve more and more myself.
-
-  Happy coding !!
-
+A  web-site that is related to NFTs topic based on Javascript DOM manupilation, html5 and css3 with linters experimentations.
 ## How it looks like :
 
 ### Desktop Home page
