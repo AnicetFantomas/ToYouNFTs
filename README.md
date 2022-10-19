@@ -4,24 +4,7 @@
 A  web-site that is related to NFTs topic based on Javascript DOM manupilation, html5 and css3 with linters experimentations.
 ## How it looks like :
 
-### Desktop Home page
-
-![newHomeDesk](https://user-images.githubusercontent.com/94958024/159005674-6665efdd-d39b-4ac8-ab56-333236e13dd6.png)
-
-### Mobile Home page
-
-
-![Home](https://user-images.githubusercontent.com/94958024/158877239-b7439be9-5626-40db-be83-3b8c9cb65f91.png)
-
-### Desktop About page
-
-![newAboutDesk](https://user-images.githubusercontent.com/94958024/159006182-b1f586a3-245a-4c4c-b3e2-1fbd1a83e81c.png)
-
-
-
-### Mobile About page
-
-![aboutMobe](https://user-images.githubusercontent.com/94958024/158879158-6d6d184f-ea4d-4bb0-a396-5a99019a8c69.png)
+![captures_chrome-capture-2022-9-19](https://user-images.githubusercontent.com/94958024/196622395-90d22537-448f-47e2-864b-805d6c983148.png)
 
 ## Built With
 
@@ -43,17 +26,18 @@ https://github.com/AnicetFantomas/Anicet-s-capston.git
 
 ```
 
-### Deployment
-
-https://anicetfantomas.github.io/Anicet-s-capston/
-
 ## Authors
 
-👤 **Author1**
 
-- GitHub: [@githubhandle](https://anicetfantomas.github.io/setup-and-mobile-version-skeleton/)
+👤 **Anicet Murhula**
 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/anicet-murhula-13a1b0220/)
+<a href="https://github.com/AnicetFantomas" target="blank"><img align="center"
+      src="https://avatars.githubusercontent.com/u/94958024?s=400&u=d381903f2405198e53ab824f3b5f35f30158a1ac&v=4"
+      alt="adampithewan" height="50" width="50"/></a> **@AnicetFantomas**
+
+- GitHub: [@AnicetFantomas](https://github.com/AnicetFantomas)
+- Twitter: [@FantomasAnicet](https://twitter.com/FantomasAnicet)
+- LinkedIn: [Anicet Murhula](https://www.linkedin.com/in/anicet-murhula/)
 
 
 ## 🤝 Contributing
