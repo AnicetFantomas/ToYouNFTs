@@ -1,5 +1,5 @@
 
-# Anicet's Capstone Project
+# ToYouNFTs
 
 A  web-site that is related to NFTs topic based on Javascript DOM manupilation, html5 and css3 with linters experimentations.
 ## How it looks like :
